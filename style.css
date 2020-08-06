@@ -1,0 +1,69 @@
+.prominent{
+	background:#fff;
+}
+.comment{
+	line-height: 16px;
+    font-size: 14px;
+    margin-top: 5px;
+    background: #fff;
+    padding: 4px;
+}
+.method{
+	font-size: 17px;
+    font-weight: bold;
+}
+.level-teacher{
+	font-size: 15px;
+}
+.level-teacher a{
+	color:inherit;
+}
+.timeof-day{
+	font-size: 22px;
+}
+.timetable{
+	overflow: auto;
+    min-width: 1100px;
+	text-align:center;}
+.timetable th{
+	width:10%;
+	background:#47bad6;
+	color:#fff;
+	font-weight:400;
+	font-size:24px;
+	border-left: 7px solid #fff;
+}
+.timetable th:first-child{
+	width:5%;
+}
+.timetable th:last-child{
+	border-left:none;
+}
+.timetable tr{
+	border-bottom:7px solid #fff;}
+.timetable tr:last-child{border-bottom:none;}
+.timetable tr:nth-child(2){
+	background:#7fc4ab;}
+
+.timetable tr:nth-child(3){
+	background:#b5dbcc;
+}
+.timetable tr:nth-child(4){
+	background:#d0e7de;
+}
+.timetable tr:nth-child(5){
+	background:#edd088;
+}
+.timetable tr:nth-child(6){
+	background:#f4e2b9;
+}
+.timetable tr:last-child{
+	border-left:none;
+	background:#f7ecd2;
+}
+.timetable td{
+	border-left: 7px solid #fff;
+}
+.timetable td:last-child{
+	border-left:none;
+}
